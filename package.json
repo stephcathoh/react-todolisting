@@ -1,0 +1,38 @@
+{
+  "name": "todoreact",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/styles": "^4.2.0",
+    "bootstrap": "^4.3.1",
+    "create-react-app": "^3.0.1",
+    "dotenv": "^8.0.0",
+    "font-awesome": "^4.7.0",
+    "material-kit-react": "^1.7.0",
+    "moment": "^2.24.0 ",
+    "react": "16.8.6",
+    "react-bootstrap": "^1.0.0-beta.9",
+    "react-dom": "^16.4.1",
+    "react-fontawesome": "^1.6.1",
+    "react-scripts": "^3.0.1",
+    "yarn": "^1.17.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
